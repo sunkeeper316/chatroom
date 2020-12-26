@@ -6,7 +6,7 @@ class FriendPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Center(
-      child: Text("friend"),
+      child: Text("friend test2 android"),
       // child: ListView.builder(itemCount: friends.length == null ? 0 : friends.length
       //     ,itemBuilder: ())
     );
